@@ -21,9 +21,9 @@ After some troubleshooting, it was found that the filament is rather hygroscopic
 **Assembly:**
 
 The bottom region of the frame was assembled first, starting with the motors on the arms, the arms to the lower base and then to the upper base, where they were sandwiched together. We used M3 bolts with sealing nuts on the end to make sure the frame would remain assmebled, but not require adhesives for the assembly. The FPV camera mounts were then added along with the camera. The flight control, VTX as well ELRS receivers were all placed in their respective locations. The top plate was screwed into the place, and we now had an assembled drone, with the FPV part working.
-![Sandwich of bottom arms](Assets/)
-![Electronics on base](Assets/susp2.png)
-![Top cover added](Assets/susp2.png)
+![Sandwich of bottom arms](Assets/sandwich.jpg)
+![Electronics on base](Assets/elec.jpg)
+![Top cover added](Assets/full.jpg)
 **Testing:**
 
 With the drone assembled, we took started trying to connect the controller to the drone, without any propellors attached. The controller originally wouldn't pair to drone's receivers, and the only way to control the motors was through the firmware app for the Flight Controller. We updated the firmware for the controller and set it to automatically detect the range the drone is supposed to send, and it finally detected the drone. We set an arm/disarm button for the motors and fired it up. As soon as the motors were armed, despite the fan speed arm being set to the lowest setting, the arms went full speed, shaking the drone so violently it rocked from side to side on the legs. The legs turned out to be uneven, a discovery made on the spot, and the drone bounded onto one arm, breaking it, and then onto the opposite breaking it again.

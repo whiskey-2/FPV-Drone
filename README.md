@@ -9,7 +9,7 @@ I took the role of designing the chassis, mounts and arms; whereas we both assem
 The front and rear arms had their mass reduced by 92% while retaining full stiffness. An 75% reduction was selected to attempt to account for the material differences of 3D printed and bulk material.
 
 **Boolean Design Method:**
-![Screenshot of Blender Preview](Assets/blen.png)
+![Screenshot of Blender Preview](Assets/blen.jpg)
 The chassis of the drone was taken from a GrabCAD project designed for proper Epoxy infused Carbon Fiber parts. To make adjustments to the existing files, the chassis was taken into Blender to use it's Boolean and Modeling tools and thus make changing bolt positions and a thicknesses a simple task. Furthermore, it made modifying the organic motor arms more flexible and refined, allowing for more nuanced adjustments.
 
 **3D Printing the Frame:**

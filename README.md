@@ -15,7 +15,7 @@ The chassis of the drone was taken from a GrabCAD project designed for proper Ep
 **3D Printing the Frame:**
 
 The frame of the drone required a material stronger than the PLA I am used to, so I explored potential filaments that my printer could handle. The final result was the use of either a Carbon-Fiber or a Fiberglass infused PETG composite. The Fiberglass, while stiffer was significantly harder to print reliably and was also more expensive, which led us to settle for PETG-CF. We opted for a 15% infused mix, and started the printing process. This was a multi-phase process, as while the print bed could fit the entire frame, the prints were failing often. 
-
+![Drone arms straight off the print bed](Assets/arms.jpg)
 After some troubleshooting, it was found that the filament is rather hygroscopic. Drying the filament before a print was found to be ineffective due to the print time, as such a filament dryer with a feed tube was employed to keep the filament dry and allow for properly fused layers.
 
 **Assembly:**
